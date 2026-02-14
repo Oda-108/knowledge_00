@@ -1,0 +1,249 @@
+{
+  "username": "nero_sansei",
+  "total_posts": 100,
+  "analysis": {
+    "structure": {
+      "avg_lines": 4.54,
+      "median_lines": 4.0,
+      "line_distribution": [
+        [
+          1,
+          29
+        ],
+        [
+          4,
+          14
+        ],
+        [
+          8,
+          12
+        ],
+        [
+          7,
+          11
+        ],
+        [
+          3,
+          9
+        ]
+      ]
+    },
+    "hooks": {
+      "distribution": {
+        "不明": 64,
+        "衝撃数字": 29,
+        "逆説フック": 2,
+        "独白フック": 2,
+        "質問フック": 1,
+        "宣言フック": 2
+      },
+      "top_hooks": [
+        [
+          "不明",
+          64
+        ],
+        [
+          "衝撃数字",
+          29
+        ],
+        [
+          "逆説フック",
+          2
+        ]
+      ]
+    },
+    "rhythm": {
+      "avg_chars": 137.29,
+      "median_chars": 145.0,
+      "min_chars": 19,
+      "max_chars": 194,
+      "avg_newlines": 3.54,
+      "char_ranges": {
+        "0-50": 5,
+        "51-100": 8,
+        "101-150": 44,
+        "151-200": 43,
+        "201+": 0
+      }
+    },
+    "cta": {
+      "posts_with_cta": 5,
+      "cta_rate": 5.0
+    },
+    "timing": {
+      "weekday_distribution": {
+        "月": 13,
+        "火": 14,
+        "水": 14,
+        "木": 15,
+        "金": 11,
+        "土": 15,
+        "日": 18
+      },
+      "hour_distribution": {
+        "0": 4,
+        "1": 4,
+        "2": 5,
+        "3": 3,
+        "4": 4,
+        "5": 8,
+        "6": 7,
+        "7": 2,
+        "8": 6,
+        "9": 8,
+        "10": 6,
+        "11": 5,
+        "12": 8,
+        "13": 5,
+        "14": 6,
+        "15": 4,
+        "16": 3,
+        "17": 2,
+        "18": 1,
+        "19": 1,
+        "20": 2,
+        "22": 1,
+        "23": 5
+      },
+      "top_hours": [
+        [
+          12,
+          8
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          5,
+          8
+        ],
+        [
+          6,
+          7
+        ],
+        [
+          10,
+          6
+        ]
+      ]
+    },
+    "algorithm": {
+      "avg_algo_score": 2097.7992751296692,
+      "median_algo_score": 1824.3338008415146
+    },
+    "engagement": {
+      "avg_likes": 126.07,
+      "avg_retweets": 5.45,
+      "avg_replies": 7.89,
+      "avg_bookmarks": 47.89,
+      "total_engagement": 56499
+    },
+    "failures": {
+      "bottom_20_avg_engagement": 37.8,
+      "bottom_20_avg_chars": 132.6
+    }
+  },
+  "top_10_posts": [
+    {
+      "text": "ChatGPT使って商標出願したら、特◯庁から拒絶理由通知書が届いた、、でもこれ、想定通りで順調なんよね。なぜ順調かというと https://t.co/6ri3KmSoqU",
+      "likes": 4559,
+      "retweets": 308,
+      "replies": 180,
+      "bookmarks": 2060,
+      "engagement_score": 6383,
+      "char_count": 86,
+      "hook_type": "不明"
+    },
+    {
+      "text": "ノートPC一つで「旅しながら稼ぐ」って流行ったけど、もう古い。今はスマホ1台でいける。\n\nスマホからサーバに繋いで\nClaude Codeに音声で指示出して\nシステムが出来上がるところまで全部完結する。\n\nPC要らない。カフェも要らない。\nホテルのベッドでゴロゴロしながら声で指示するだけ。 https://t.co/yY8te7L7J1",
+      "likes": 1171,
+      "retweets": 90,
+      "replies": 21,
+      "bookmarks": 709,
+      "engagement_score": 1546,
+      "char_count": 169,
+      "hook_type": "不明"
+    },
+    {
+      "text": "【たった5秒1回きり】複数のSNSに自動投稿する方法\n\n①Discordを開く\n②AIに「毎朝9時に〇〇を自動実行して」と送る\n③終わり\n\nこれだけでnoteやメルマガなど複数の\nSNSや配信サービスに6000文字以上の記事が毎朝自動で投稿してくれる\n\n寝てても稼げるとはこのことやね https://t.co/Edx9fRXldX",
+      "likes": 425,
+      "retweets": 26,
+      "replies": 20,
+      "bookmarks": 317,
+      "engagement_score": 603,
+      "char_count": 166,
+      "hook_type": "衝撃数字"
+    },
+    {
+      "text": "AIデザインツール、ガチで当たり引いたかもしれない。Pencilって知ってる？\nこのデザインツールとAIを掛け合わせて、習慣化アプリのUI作ってみたけど最高だった。というか、他と設計思想が根本から違ってた。\n\n・ファイル管理ツールのGitベースでバージョン管理できる https://t.co/q09xwlJ7Wf",
+      "likes": 454,
+      "retweets": 24,
+      "replies": 1,
+      "bookmarks": 414,
+      "engagement_score": 531,
+      "char_count": 157,
+      "hook_type": "不明"
+    },
+    {
+      "text": "実際にやってるとこ見せた方が早いので ベッドの上からスマホで指示出してる動画、撮った。\n流れはこう \n①スマホからサーバに接続 \n②Claude Codeに音声AI使って指示\n③コードが自動生成→実装完了\nこれで仕事が終わってしまう。\n\n音声入力での入力ミスあるんじゃないか？ https://t.co/pa3ISl8cVz https://t.co/jA91QLkKwj",
+      "likes": 308,
+      "retweets": 17,
+      "replies": 4,
+      "bookmarks": 245,
+      "engagement_score": 379,
+      "char_count": 186,
+      "hook_type": "不明"
+    },
+    {
+      "text": "ホームページ制作、ChatGPTのCodexアプリで誰でも作れる。AIへの指示をコピペしてデザイン添付するだけ。所要時間ほぼゼロ。非エンジニアにとって革命的。 https://t.co/FQoA1Vzd1C",
+      "likes": 223,
+      "retweets": 13,
+      "replies": 4,
+      "bookmarks": 154,
+      "engagement_score": 282,
+      "char_count": 103,
+      "hook_type": "不明"
+    },
+    {
+      "text": "LP外注に10万円払ってる人、まだいる？\nバズって反応も凄かったので、約束してたChatGPT Codexでデザイン・仕様に合わせたLPを自動生成できるプロンプト置いておきます。\n\n貼るだけで30分もせずにLP完成。\n修正も日本語で指示するだけ。\n\n流れてくると見つけにくいので\n保存しておくのがおすすめです↓ https://t.co/TVGJYAkksm",
+      "likes": 207,
+      "retweets": 10,
+      "replies": 5,
+      "bookmarks": 224,
+      "engagement_score": 262,
+      "char_count": 179,
+      "hook_type": "衝撃数字"
+    },
+    {
+      "text": "副業で月120万稼いで、人生壊れかけた。\nセンスなしでも月100万はいける。ただ「労働に全振り」すると地獄を見る。当時の生活↓\n・仕事→寝る→仕事→寝る\n・QOLは過去最悪\n・稼いでるのに幸せゼロ\nそこで方針転換した。\n①人手がいる仕事は全部切る\n②AIと相性いい領域だけに絞る",
+      "likes": 128,
+      "retweets": 3,
+      "replies": 11,
+      "bookmarks": 24,
+      "engagement_score": 192,
+      "char_count": 139,
+      "hook_type": "衝撃数字"
+    },
+    {
+      "text": "「働かないと生きていけない」って思い込み、\nそろそろ手放してよくない？\n\n「働くな」じゃない。\n「時間を売るしか選択肢がない」のがしんどいって話。\n\nAIで月の固定収入を仕組み化したら\n趣味にも夢にも全力でいけるようになった。\n気づいたらフォロワー4,000人超えてた。",
+      "likes": 88,
+      "retweets": 0,
+      "replies": 20,
+      "bookmarks": 7,
+      "engagement_score": 188,
+      "char_count": 135,
+      "hook_type": "不明"
+    },
+    {
+      "text": "何度でも言う。AI触ってる人と触ってない人、差がエグいことになってきてる。\n\n「別に関係ないし」「仕事で使わないし」\n\nって思ってる人ほど気づいてない。\n\n今回はこんなことがあった。 https://t.co/ogBIO41NTO",
+      "likes": 118,
+      "retweets": 2,
+      "replies": 12,
+      "bookmarks": 29,
+      "engagement_score": 184,
+      "char_count": 115,
+      "hook_type": "不明"
+    }
+  ]
+}

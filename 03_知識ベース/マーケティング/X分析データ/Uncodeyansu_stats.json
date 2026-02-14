@@ -1,0 +1,228 @@
+{
+  "username": "Uncodeyansu",
+  "total_posts": 100,
+  "analysis": {
+    "structure": {
+      "avg_lines": 5.29,
+      "median_lines": 5.0,
+      "line_distribution": [
+        [
+          1,
+          22
+        ],
+        [
+          3,
+          13
+        ],
+        [
+          5,
+          10
+        ],
+        [
+          9,
+          10
+        ],
+        [
+          7,
+          8
+        ]
+      ]
+    },
+    "hooks": {
+      "distribution": {
+        "不明": 73,
+        "衝撃数字": 27
+      },
+      "top_hooks": [
+        [
+          "不明",
+          73
+        ],
+        [
+          "衝撃数字",
+          27
+        ]
+      ]
+    },
+    "rhythm": {
+      "avg_chars": 89.46,
+      "median_chars": 94.5,
+      "min_chars": 16,
+      "max_chars": 182,
+      "avg_newlines": 4.29,
+      "char_ranges": {
+        "0-50": 29,
+        "51-100": 23,
+        "101-150": 42,
+        "151-200": 6,
+        "201+": 0
+      }
+    },
+    "cta": {
+      "posts_with_cta": 4,
+      "cta_rate": 4.0
+    },
+    "timing": {
+      "weekday_distribution": {
+        "月": 13,
+        "火": 15,
+        "水": 15,
+        "木": 12,
+        "金": 16,
+        "土": 15,
+        "日": 14
+      },
+      "hour_distribution": {
+        "3": 1,
+        "4": 1,
+        "8": 1,
+        "9": 4,
+        "10": 1,
+        "11": 1,
+        "12": 3,
+        "13": 5,
+        "14": 82,
+        "15": 1
+      },
+      "top_hours": [
+        [
+          14,
+          82
+        ],
+        [
+          13,
+          5
+        ],
+        [
+          9,
+          4
+        ],
+        [
+          12,
+          3
+        ],
+        [
+          11,
+          1
+        ]
+      ]
+    },
+    "algorithm": {
+      "avg_algo_score": 2825.4185848823226,
+      "median_algo_score": 2822.348341515094
+    },
+    "engagement": {
+      "avg_likes": 932.86,
+      "avg_retweets": 74.83,
+      "avg_replies": 9.49,
+      "avg_bookmarks": 381.58,
+      "total_engagement": 425744
+    },
+    "failures": {
+      "bottom_20_avg_engagement": 46.05,
+      "bottom_20_avg_chars": 95.15
+    }
+  },
+  "top_10_posts": [
+    {
+      "text": "一番簡単に金を稼ぐ方法\n\n1. 女には「美」を売る\n2. 男には「欲望」を売る\n3. 親には「安心」を売る\n4. 子どもには「夢」を売る\n5. 金持ちには「安全」を売る\n6. 貧乏人には「希望」を売る\n\nやっていることは同じ\n違うのは「見せ方」だけ",
+      "likes": 12294,
+      "retweets": 1208,
+      "replies": 40,
+      "bookmarks": 4415,
+      "engagement_score": 16118,
+      "char_count": 124,
+      "hook_type": "不明"
+    },
+    {
+      "text": "月100万稼ぐ人って、まじで社会不適合者が多いんだよな",
+      "likes": 5686,
+      "retweets": 368,
+      "replies": 86,
+      "bookmarks": 1937,
+      "engagement_score": 7220,
+      "char_count": 27,
+      "hook_type": "衝撃数字"
+    },
+    {
+      "text": "世界で最も裕福な人の内訳\n\n・75％  起業家\n・15％  投資家\n・7％   プロスポーツ選手\n・3％   アーティスト\n\n・0％   会社員\n\n給料だけで金持ちになる人はいない\n\n何か1つでもビジネスを始めよう",
+      "likes": 5526,
+      "retweets": 312,
+      "replies": 65,
+      "bookmarks": 923,
+      "engagement_score": 6787,
+      "char_count": 107,
+      "hook_type": "不明"
+    },
+    {
+      "text": "成功者って、まじで他人に興味が無いんだよな",
+      "likes": 4916,
+      "retweets": 491,
+      "replies": 42,
+      "bookmarks": 1309,
+      "engagement_score": 6599,
+      "char_count": 21,
+      "hook_type": "不明"
+    },
+    {
+      "text": "人生を変えたいなら「新しい人格」を作るのが一番早いんだよな",
+      "likes": 4786,
+      "retweets": 528,
+      "replies": 14,
+      "bookmarks": 2064,
+      "engagement_score": 6440,
+      "char_count": 29,
+      "hook_type": "不明"
+    },
+    {
+      "text": "成功の9割は「言ったことをちゃんとやる」だけで決まる https://t.co/G8GM80D8Lg",
+      "likes": 4952,
+      "retweets": 368,
+      "replies": 18,
+      "bookmarks": 814,
+      "engagement_score": 6146,
+      "char_count": 50,
+      "hook_type": "衝撃数字"
+    },
+    {
+      "text": "【成功するために必要な毎日習慣】\n\n1. 頭を鍛える習慣\n　（読書・学習・ジャーナリング）\n\n2. 体を鍛える習慣\n　（散歩・筋トレ・食事管理）\n\n3. 金を育てる習慣\n　（投資・ビジネス・スキル習得）\n\nこれらを毎日、小さくてもいいから積み上げよう\n習慣を制する者が、人生を制するのである",
+      "likes": 3945,
+      "retweets": 337,
+      "replies": 14,
+      "bookmarks": 1318,
+      "engagement_score": 5026,
+      "char_count": 145,
+      "hook_type": "不明"
+    },
+    {
+      "text": "お金と時間の使い方で、人生は100%決まる\n\n■お金の使い方\n・体調を整える（食事）\n・見た目を整える（外見）\n・収入を増やす（自己投資）\n\n■時間の使い方\n・体調を整える（休息）\n・見た目を整える（運動）\n・稼ぐ力を伸ばす（スキル習得）\n\nお金と時間は「人生の質が上がるもの」に使おう",
+      "likes": 3133,
+      "retweets": 281,
+      "replies": 13,
+      "bookmarks": 748,
+      "engagement_score": 4041,
+      "char_count": 143,
+      "hook_type": "衝撃数字"
+    },
+    {
+      "text": "若くして金を稼ぐ人の共通点は「ADHD」ということ",
+      "likes": 2999,
+      "retweets": 200,
+      "replies": 26,
+      "bookmarks": 958,
+      "engagement_score": 3729,
+      "char_count": 25,
+      "hook_type": "不明"
+    },
+    {
+      "text": "「フリをする」は最速で人生を変えるチート技なんだよな\n\n・天才のフリ → 思考の次元が変わる",
+      "likes": 2511,
+      "retweets": 177,
+      "replies": 13,
+      "bookmarks": 1222,
+      "engagement_score": 3107,
+      "char_count": 46,
+      "hook_type": "不明"
+    }
+  ]
+}

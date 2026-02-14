@@ -1,0 +1,243 @@
+{
+  "username": "develogon0",
+  "total_posts": 100,
+  "analysis": {
+    "structure": {
+      "avg_lines": 1.62,
+      "median_lines": 1.0,
+      "line_distribution": [
+        [
+          1,
+          76
+        ],
+        [
+          3,
+          17
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          2,
+          1
+        ]
+      ]
+    },
+    "hooks": {
+      "distribution": {
+        "不明": 64,
+        "衝撃数字": 32,
+        "独白フック": 2,
+        "宣言フック": 1,
+        "逆説フック": 1
+      },
+      "top_hooks": [
+        [
+          "不明",
+          64
+        ],
+        [
+          "衝撃数字",
+          32
+        ],
+        [
+          "独白フック",
+          2
+        ]
+      ]
+    },
+    "rhythm": {
+      "avg_chars": 123.41,
+      "median_chars": 138.0,
+      "min_chars": 17,
+      "max_chars": 199,
+      "avg_newlines": 0.62,
+      "char_ranges": {
+        "0-50": 10,
+        "51-100": 15,
+        "101-150": 49,
+        "151-200": 26,
+        "201+": 0
+      }
+    },
+    "cta": {
+      "posts_with_cta": 7,
+      "cta_rate": 7.000000000000001
+    },
+    "timing": {
+      "weekday_distribution": {
+        "月": 19,
+        "火": 8,
+        "水": 18,
+        "木": 17,
+        "金": 16,
+        "土": 10,
+        "日": 12
+      },
+      "hour_distribution": {
+        "0": 3,
+        "1": 1,
+        "2": 5,
+        "3": 18,
+        "4": 4,
+        "5": 9,
+        "6": 6,
+        "7": 4,
+        "8": 7,
+        "9": 5,
+        "10": 8,
+        "11": 15,
+        "12": 1,
+        "13": 1,
+        "15": 1,
+        "21": 1,
+        "22": 4,
+        "23": 7
+      },
+      "top_hours": [
+        [
+          3,
+          18
+        ],
+        [
+          11,
+          15
+        ],
+        [
+          5,
+          9
+        ],
+        [
+          10,
+          8
+        ],
+        [
+          23,
+          7
+        ]
+      ]
+    },
+    "algorithm": {
+      "avg_algo_score": 2053.9490042637563,
+      "median_algo_score": 1905.4179854775648
+    },
+    "engagement": {
+      "avg_likes": 107.51,
+      "avg_retweets": 1.8,
+      "avg_replies": 10.8,
+      "avg_bookmarks": 41.65,
+      "total_engagement": 50011
+    },
+    "failures": {
+      "bottom_20_avg_engagement": 46.25,
+      "bottom_20_avg_chars": 89.8
+    }
+  },
+  "top_10_posts": [
+    {
+      "text": "Geminiの回答のクオリティを\n超カンタンに爆上げする裏ワザをぶっちゃける\n\n聞きたい内容を簡単に書いたあと、",
+      "likes": 1328,
+      "retweets": 90,
+      "replies": 25,
+      "bookmarks": 1708,
+      "engagement_score": 1723,
+      "char_count": 56,
+      "hook_type": "不明"
+    },
+    {
+      "text": "月500万達成に向けて、今日もバチバチに作業してく。このチート組めたらあとは調整していくだけでブチ抜けるから追い込みかけるかー。競合がザコい場所だしAIブーストかけてブイブイ蹴散らしてくわw https://t.co/HWD2vUYUHk",
+      "likes": 831,
+      "retweets": 22,
+      "replies": 25,
+      "bookmarks": 601,
+      "engagement_score": 1022,
+      "char_count": 119,
+      "hook_type": "衝撃数字"
+    },
+    {
+      "text": "月500万達成に向けて仕込んでる自動収益マシーン(仮)がかなりイイ感じ。もちろん完全自動だから時間効率が最強なのはもちろんだが、AI使用料のコスパまで良すぎて逆に怖いレベル。これ考えついた俺マジで天才だわ。 https://t.co/1h7IhxZo5a",
+      "likes": 671,
+      "retweets": 14,
+      "replies": 19,
+      "bookmarks": 714,
+      "engagement_score": 808,
+      "char_count": 127,
+      "hook_type": "衝撃数字"
+    },
+    {
+      "text": "7,000名、ｱｻﾞﾏｽ。2026年も意味わからん速度で伸びてる青ムックだが、これは間違いなくいつもいいねとかリプで反応くれるみんなのおかげよ。本当にありがとう！そういう人は嫌でもアイコン覚えるし、こっちもなんか恩返ししたくなるんよな。とりま今後も一緒にブチ上げていきまっしょい💪❤️‍🔥 https://t.co/VFp7nFBlCA",
+      "likes": 139,
+      "retweets": 0,
+      "replies": 51,
+      "bookmarks": 7,
+      "engagement_score": 394,
+      "char_count": 168,
+      "hook_type": "衝撃数字"
+    },
+    {
+      "text": "AIで爆稼ぎするには、需要がありふれてる場所でコンテンツ量産してくのが王道よな。 https://t.co/W1h2D5IPeN",
+      "likes": 293,
+      "retweets": 4,
+      "replies": 11,
+      "bookmarks": 202,
+      "engagement_score": 360,
+      "char_count": 64,
+      "hook_type": "不明"
+    },
+    {
+      "text": "やべぇ。史上最高傑作のAI自動化ツールが出来上がっちまったwwこりゃ月500万をサクッと達成できるかもしれんな。とりまこいつにゴリゴリ働いてもらう。調整もほぼ完了したし、あとはガンガン回しまくって某ジャンルのテッペン取るだけだな。 https://t.co/KAt5q1ypZD https://t.co/jP9Xai0sQf",
+      "likes": 253,
+      "retweets": 3,
+      "replies": 17,
+      "bookmarks": 150,
+      "engagement_score": 347,
+      "char_count": 163,
+      "hook_type": "不明"
+    },
+    {
+      "text": "ラク稼ぎを極めるには一瞬オニ作業しないと100%無理なんよな。X見てると1日10分作業で月ウン百万とか稼いでる勢がゴロゴロおるが、全員例外なく一時期は追い込んだ経験がある。そこで得た知見とか仕組みを活かして、今ハナホジでも稼げるようになったんよね。でも一瞬頑張ればイイって考えると楽勝そう",
+      "likes": 123,
+      "retweets": 0,
+      "replies": 30,
+      "bookmarks": 16,
+      "engagement_score": 273,
+      "char_count": 144,
+      "hook_type": "不明"
+    },
+    {
+      "text": "月100万達成するには優柔不断な自分をポイってするだけよ。俺も昔は「ほ、本当に上手くいくかな…」ってウジウジしてたけどガチで時間の無駄だった。ついてく猛者見つけて、その人の後をドラクエの移動中ぐらいピタッとくっついていけばいいだけよ。クネクネ悩むことも無くなるし。逆にやることが不明",
+      "likes": 124,
+      "retweets": 1,
+      "replies": 23,
+      "bookmarks": 19,
+      "engagement_score": 242,
+      "char_count": 141,
+      "hook_type": "衝撃数字"
+    },
+    {
+      "text": "正直、俺のポスト追ってる時点で稼げる見込みガチで高いよ。X見てると感覚狂うけど、世の中の90%以上が「休みの日何しよっかな〜」とか「この服イイな。ポチっちゃえ！」とか将来の自分のために一切ならない浪費を繰り返してるんよ。時間も金もね。それをこうしてXで俺のポスト見てる時点で大多数の上",
+      "likes": 133,
+      "retweets": 2,
+      "replies": 19,
+      "bookmarks": 16,
+      "engagement_score": 234,
+      "char_count": 142,
+      "hook_type": "独白フック"
+    },
+    {
+      "text": "あれ？2月始まって既に935増はさすがにエグいねwwてか、爆伸びしすぎて8,000名を一瞬でブチ抜いて、もう◯00名増えてる。昨日7,700名とかだったのにw\n\nいつも反応くれるみんなのおかげだわ。マジで感謝！今後もAIで全自動マネタイズするための有益情報をバンバン出してくから、一緒に成り上がろうぜ。 https://t.co/DYXec88vjK",
+      "likes": 116,
+      "retweets": 1,
+      "replies": 22,
+      "bookmarks": 5,
+      "engagement_score": 229,
+      "char_count": 175,
+      "hook_type": "衝撃数字"
+    }
+  ]
+}
